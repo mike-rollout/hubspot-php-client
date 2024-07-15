@@ -1,4 +1,5 @@
 {
+  "name": "mike-rollout/hubspot-php-client",
   "description": "hubspot PHP client",
   "keywords": [
     "rollout",
